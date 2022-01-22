@@ -1,0 +1,14 @@
+<!doctype html>
+<html>
+<head>
+<title> nested list</title>
+</head>
+<body>
+<ol type="1">
+<li>choclates</li.
+<li>games</li>
+<li>fruits</li>
+</ol>
+
+</body>
+</html>
